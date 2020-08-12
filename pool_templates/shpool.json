@@ -160,7 +160,7 @@
                 }
         },
 	{
-                "coin": "EXP",
+                "coin": "UBQ",
                 "servers": [
                         {
                                 "geo": "SOLO EU 3G",
